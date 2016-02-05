@@ -1,0 +1,1 @@
+include ':app', ':aspectjrt-1.8.8', ':isoparser-1.1.9', ':isoparser', ':muxer', ':streaming'

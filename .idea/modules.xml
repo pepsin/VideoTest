@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VideoTest.iml" filepath="$PROJECT_DIR$/VideoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aspectjrt-1.8.8/aspectjrt-1.8.8.iml" filepath="$PROJECT_DIR$/aspectjrt-1.8.8/aspectjrt-1.8.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isoparser/isoparser.iml" filepath="$PROJECT_DIR$/isoparser/isoparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isoparser-1.1.9/isoparser-1.1.9.iml" filepath="$PROJECT_DIR$/isoparser-1.1.9/isoparser-1.1.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/muxer/muxer.iml" filepath="$PROJECT_DIR$/muxer/muxer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streaming/streaming.iml" filepath="$PROJECT_DIR$/streaming/streaming.iml" />
+    </modules>
+  </component>
+</project>
